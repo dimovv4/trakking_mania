@@ -1,4 +1,4 @@
-number_of_groups = int(input)
+number_of_groups = int(input()
 musala_climbers = 0
 montblanc_climbers = 0
 kilimandjaro_climbers = 0
